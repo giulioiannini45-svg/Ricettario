@@ -1,0 +1,1 @@
+# Il Mio Ricettario\n\nV1 del ricettario migrata da Lovable: React + Vite + Supabase.\n\n## Avvio\n1. `npm install`\n2. copia `.env.example` in `.env` e inserisci le credenziali Supabase\n3. `npm run dev`\n\nLa UI mantiene il concetto di quaderno personale, con ricerca, categorie, ricetta casuale, CRUD, audio/dettatura, post-it, punti e badge. Il database resta su Supabase.\n
